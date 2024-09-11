@@ -1,3 +1,3 @@
-# Decimato to binaly converter
+# Decimal to binaly converter
 
 Converts whole decimal numbers into binary numbers
